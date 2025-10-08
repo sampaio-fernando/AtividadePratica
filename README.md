@@ -1,2 +1,2 @@
-# AtividadePratica
-Projeto desenvolvido em .NET Core 8.0 para controle de chamado com prioridades
+# api-controle-tarefas
+API para o Controle de Tarefa - Desenvolvido em C# .Net 8.0
